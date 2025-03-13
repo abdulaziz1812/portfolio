@@ -13,12 +13,12 @@ import Experience from "../pages/Experience";
 
 const MainLayout = () => {
   const location = useLocation();
-  console.log(location);
+  
 
   useEffect(() => {
     if (location.hash) {
       const section = document.querySelector(location.hash);
-      console.log(section);
+      
       if (section) {
         section.scrollIntoView({ behavior: "smooth" });
       }
