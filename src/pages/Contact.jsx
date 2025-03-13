@@ -57,7 +57,7 @@ const Contact = () => {
               <p>
                 <span className="font-semibold">Phone:</span>{" "}
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+8801700766210"
                   className="text-accent hover:underline"
                 >
                   +88 01700766210
