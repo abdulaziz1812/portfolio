@@ -1,0 +1,97 @@
+[
+    {
+      "id": 1,
+      "title": "Admin & HR Coordinator + IT Specialist",
+      "company": "APR Energy",
+      "location": "Dhaka, Bangladesh",
+      "duration": "Jan 2018 - Present",
+      "responsibilities": [
+        "Managed scheduling, travel, and office supplies.",
+                "Facilitated visa processes for expats.",
+        "Configured and troubleshot network systems and hardware.",
+        "Provided technical support for staff IT issues.",
+        "Monitored and upgraded IT infrastructure for plant operations.",
+        "Maintained CCTV functionality and vehicle records."
+      ],
+      "skills": [
+        "Policies Development",
+        "Data Analysis",
+        "Network Administration",
+        "Training",
+        "Visa Processing",
+        "Technical Support"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Admin Coordinator",
+      "company": "China Energy Engineering Group Guangdong Power Engineering Co. Ltd (CEEC-GPEC)",
+      "location": "Ghorashal Unit 4 Repowering Project, Palash, Narsingdi, Bangladesh",
+      "duration": "Sep 2017 - Jan 2018",
+      "responsibilities": [
+        "Managed phone calls and meeting coordination.",
+        "Prepared reports and maintained filing systems.",
+        "Oversaw office policies and procurement.",
+        "Handled expense reports and visitor support."
+      ],
+      "skills": [
+        "Policies Development",
+        "Administration",
+        "Procurement",
+        "Contract Management"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Manager",
+      "company": "J&L Traders LTD",
+      "location": "London, United Kingdom",
+      "duration": "May 2014 - Feb 2016",
+      "responsibilities": [
+        "Recruited and trained employees.",
+        "Managed budgets and financial forecasts.",
+        "Ensured quality service and resolved issues."
+      ],
+      "skills": [
+        "Training",
+        "Recruiting",
+        "CRM",
+        "Administration"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Team Lead Supervisor",
+      "company": "Nando's UK & IRE",
+      "location": "London, United Kingdom",
+      "duration": "Oct 2009 - Apr 2013",
+      "responsibilities": [
+        "Enforced safety and compliance standards.",
+        "Managed schedules and operational efficiency.",
+        "Maintained quality service standards."
+      ],
+      "skills": [
+        "Risk Management",
+        "Scheduling",
+        "Policy Implementation",
+        "Team Management"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Computer Technician",
+      "company": "Gaming Internet Café",
+      "location": "Riyadh, Saudi Arabia",
+      "duration": "May 2008 - Aug 2009",
+      "responsibilities": [
+        "Configured and upgraded operating systems.",
+        "Repaired computers and peripherals.",
+        "Troubleshot hardware/software issues."
+      ],
+      "skills": [
+        "Networking",
+        "System Administration",
+        "Troubleshooting"
+      ]
+    }
+  ]

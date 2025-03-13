@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Micro Tasker",
+    "image": "/assets/project1.jpg",
+    "techStack": [
+      { "id": 1, "name": "React" },
+      { "id": 2, "name": "Tailwind CSS" },
+      { "id": 3, "name": "Node.js" },
+      { "id": 4, "name": "Express.js" },
+      { "id": 5, "name": "MongoDB" },
+      { "id": 6, "name": "Firebase Authentication" },
+      { "id": 7, "name": "Lottie" },
+      { "id": 8, "name": "React Router" }
+    ],
+    "description": "Micro Tasker is a platform connecting buyers and workers for task-based projects. Buyers post tasks and purchase coins for payments, while workers complete tasks to earn coins. It features role-based access for admins, buyers, and workers.",
+    "liveLink": "https://micro-tasker-cc8a1.web.app/",
+    "githubClient": "https://github.com/abdulaziz1812/micro-tasker-client",
+    "challenges": [
+      "Integrating real-time updates with WebSockets due to state management complexities.",
+      "Ensuring a responsive design that works seamlessly across all device sizes."
+    ],
+    "futurePlans": [
+      "Implement an email notification system for all user actions.",
+      "Add a toast-based notification system for task deadlines."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Review Radar",
+    "image": "/assets/project2.jpg",
+    "techStack": [
+      { "id": 1, "name": "React" },
+      { "id": 3, "name": "Firebase" },
+      { "id": 4, "name": "React Router" },
+      { "id": 5, "name": "Axios" },
+      { "id": 6, "name": "SweetAlert2" }   
+    ],
+    "description": "Review Radar is a service review platform where users can explore services, read reviews, and submit their own. It includes user authentication, service search, and a responsive design for a seamless experience.",
+    "liveLink": "https://service-review-system-a5c49.web.app/",
+    "githubClient": "https://github.com/abdulaziz1812/service-review-system-client",
+    "challenges": [
+      "Gracefully handling errors from the backend.",
+      "Optimizing image loading to improve page render speed."
+    ],
+    "futurePlans": [
+      "Add a detailed product review system with user feedback.",
+      "Integrate a recommendation engine based on user preferences."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Blue Eco Dive",
+    "image": "/assets/project3.jpg",
+    "techStack": [
+      { "id": 1, "name": "React" },
+      { "id": 2, "name": "Tailwind CSS" },
+      { "id": 3, "name": "Framer Motion" },
+      { "id": 4, "name": "React Router" },
+      { "id": 5, "name": "Firebase" },
+      { "id": 6, "name": "Swiper" }
+    ],
+    "description": "Blue Eco Dive is an eco-adventure website for booking ocean dive experiences. It offers dynamic content about adventures, user authentication, and real-time expert consultation with a responsive, interactive UI.",
+    "liveLink": "https://blue-eco-dive-d3cbe.web.app/",
+    "githubClient": "https://github.com/abdulaziz1812/blue-eco-dive",
+    "challenges": [
+      "Ensuring smooth, performant animations across different browsers.",
+      "Balancing a visually appealing design with accessibility standards."
+    ],
+    "futurePlans": [
+      "Add a blog section for eco-tech articles.",
+      "Integrate a contact form with email notifications."
+    ]
+  }
+]
