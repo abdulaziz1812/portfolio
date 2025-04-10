@@ -34,10 +34,10 @@ const Navbar = () => {
           <Link to="/#education">Education</Link>
         </li>
         <li>
-          <Link to="/#projects">Projects</Link>
+          <Link to="/#experience">Experience</Link>
         </li>
         <li>
-          <Link to="/#experience">Experience</Link>
+          <Link to="/#projects">Projects</Link>
         </li>
         <li>
           <Link to="/#contact">Contact</Link>
@@ -96,7 +96,7 @@ const Navbar = () => {
         {/* Navbar End */}
         <div className="navbar-end">
           <a
-            href="/assets/Abdul_aziz_Abdul_mannan_Resume.pdf"
+            href="/assets/Abdul_aziz_Abdul_mannan_Frontend_Developer_Resume.pdf"
             download
             className={`btn ${
               isScrolled ? "btn-accent" : "btn-outline text-white"

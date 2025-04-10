@@ -42,7 +42,7 @@ const Banner = () => {
             {...animationLeft}
             transition={{ duration: 0.8, delay: 0.3 }}
           >
-            Hi, I am
+            Hello, I’m
           </motion.h1>
 
           <motion.h1
@@ -58,11 +58,11 @@ const Banner = () => {
             {...animationLeft}
             transition={{ duration: 0.8, delay: 0.5 }}
           >
-            Web Developer
+            A Passionate Web Developer Crafting Modern Solutions
           </motion.p>
 
           <motion.a
-            href="/assets/Abdul_aziz_Abdul_mannan_Resume.pdf"
+            href="/assets/Abdul_aziz_Abdul_mannan_Frontend_Developer_Resume.pdf"
             download
             className="btn btn-accent  md:btn-lg w-fit mt-4"
             {...animationLeft}
@@ -89,7 +89,7 @@ const Banner = () => {
               <FiGithub />
             </motion.a>
             <motion.a
-              href="www.linkedin.com/in/abdul-aziz-abdul-mannan1"
+              href="https://www.linkedin.com/in/abdul-aziz-abdul-mannan1/"
               target="_blank"
               className="btn btn-circle btn-outline text-white hover:bg-white hover:text-black"
               {...animationLeft}
