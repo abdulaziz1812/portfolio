@@ -1,5 +1,5 @@
 import React from "react";
-
+import { motion } from "framer-motion";
 import profile from "../assets/profile.png";
 import background from "../assets/background.jpg";
 import { FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
