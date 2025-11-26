@@ -1,5 +1,5 @@
 import React from "react";
-import { motion } from "framer-motion";
+
 import { FcInfo } from "react-icons/fc";
 
 const About = () => {
